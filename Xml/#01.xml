@@ -1,2 +1,16 @@
 <midi app=" 1.7.8.5433">
+    <control channel="3" event_type="Control Change" data_type="Relative Signed Bit" control="102">
+        <userio event="click">
+            <toggle_library_mode deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="toggle_library"/>
+            </toggle_library_mode>
+        </userio>
+    </control>
+    <control channel="3" event_type="Control Change" data_type="Relative 2&apos;s Complement" control="101">
+        <userio event="click">
+            <midi_library_scroll deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </midi_library_scroll>
+        </userio>
+    </control>
 </midi>
