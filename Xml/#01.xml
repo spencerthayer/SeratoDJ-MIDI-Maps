@@ -1,4 +1,394 @@
 <midi app=" 1.7.8.5433">
+    <control channel="3" event_type="Note On" control="48">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="4">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="4">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="49">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="5">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="5">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="55">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="3">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="54">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="2">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="52">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="36">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="4">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="4">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="37">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="5">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="5">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="39">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="43">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="3">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="42">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="2">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="41">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="1">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="40">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="25">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="5">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="5">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="26">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="6">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="6">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="27">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="31">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="29">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="12">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="4">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="4">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="53">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="1">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="13">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="5">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="5">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="14">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="6">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="6">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="15">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="19">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="18">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="17">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="16">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
     <control channel="3" event_type="Note On" control="59">
         <userio event="click">
             <cue_point deck_set="Default" deck_id="3" slot_id="7">
@@ -119,6 +509,21 @@
             </cue_point_set>
         </userio>
     </control>
+    <control channel="3" event_type="Note On" control="28">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
+        </userio>
+    </control>
     <control channel="3" event_type="Note On" control="45">
         <userio event="click">
             <cue_point deck_set="Default" deck_id="2" slot_id="5">
@@ -149,21 +554,6 @@
             </cue_point_set>
         </userio>
     </control>
-    <control channel="3" event_type="Note On" control="50">
-        <userio event="click">
-            <cue_point deck_set="Default" deck_id="2" slot_id="2">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
-        </userio>
-        <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="2" slot_id="2">
-                <translation action_on="any">
-                    <alias name="on" value="127"/>
-                    <alias name="off" value="0"/>
-                </translation>
-            </cue_point_set>
-        </userio>
-    </control>
     <control channel="3" event_type="Note On" control="47">
         <userio event="click">
             <cue_point deck_set="Default" deck_id="2" slot_id="7">
@@ -179,34 +569,19 @@
             </cue_point_set>
         </userio>
     </control>
-    <control channel="3" event_type="Note On" control="49">
+    <control channel="3" event_type="Note On" control="50">
         <userio event="click">
-            <cue_point deck_set="Default" deck_id="2" slot_id="1">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="6">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
         </userio>
         <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="2" slot_id="1">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="6">
                 <translation action_on="any">
                     <alias name="on" value="127"/>
                     <alias name="off" value="0"/>
                 </translation>
-            </cue_point_set>
-        </userio>
-    </control>
-    <control channel="3" event_type="Note On" control="48">
-        <userio event="click">
-            <cue_point deck_set="Default" deck_id="2" slot_id="0">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
-        </userio>
-        <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="2" slot_id="0">
-                <translation action_on="any">
-                    <alias name="on" value="127"/>
-                    <alias name="off" value="0"/>
-                </translation>
-            </cue_point_set>
+            </slot_reloop>
         </userio>
     </control>
     <control channel="3" event_type="Note On" control="35">
@@ -269,51 +644,6 @@
             </cue_point_set>
         </userio>
     </control>
-    <control channel="3" event_type="Note On" control="39">
-        <userio event="click">
-            <cue_point deck_set="Default" deck_id="1" slot_id="3">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
-        </userio>
-        <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="1" slot_id="3">
-                <translation action_on="any">
-                    <alias name="on" value="127"/>
-                    <alias name="off" value="0"/>
-                </translation>
-            </cue_point_set>
-        </userio>
-    </control>
-    <control channel="3" event_type="Note On" control="37">
-        <userio event="click">
-            <cue_point deck_set="Default" deck_id="1" slot_id="1">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
-        </userio>
-        <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="1" slot_id="1">
-                <translation action_on="any">
-                    <alias name="on" value="127"/>
-                    <alias name="off" value="0"/>
-                </translation>
-            </cue_point_set>
-        </userio>
-    </control>
-    <control channel="3" event_type="Note On" control="36">
-        <userio event="click">
-            <cue_point deck_set="Default" deck_id="1" slot_id="0">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
-        </userio>
-        <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="1" slot_id="0">
-                <translation action_on="any">
-                    <alias name="on" value="127"/>
-                    <alias name="off" value="0"/>
-                </translation>
-            </cue_point_set>
-        </userio>
-    </control>
     <control channel="3" event_type="Note On" control="23">
         <userio event="click">
             <cue_point deck_set="Default" deck_id="0" slot_id="7">
@@ -344,21 +674,6 @@
             </cue_point_set>
         </userio>
     </control>
-    <control channel="3" event_type="Note On" control="51">
-        <userio event="click">
-            <cue_point deck_set="Default" deck_id="2" slot_id="3">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
-        </userio>
-        <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="2" slot_id="3">
-                <translation action_on="any">
-                    <alias name="on" value="127"/>
-                    <alias name="off" value="0"/>
-                </translation>
-            </cue_point_set>
-        </userio>
-    </control>
     <control channel="3" event_type="Note On" control="60">
         <userio event="click">
             <cue_point deck_set="Default" deck_id="3" slot_id="0">
@@ -372,6 +687,21 @@
                     <alias name="off" value="0"/>
                 </translation>
             </cue_point_set>
+        </userio>
+    </control>
+    <control channel="3" event_type="Note On" control="51">
+        <userio event="click">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
+        </userio>
+        <userio event="output">
+            <slot_reloop deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </slot_reloop>
         </userio>
     </control>
     <control channel="3" event_type="Note On" control="21">
@@ -404,79 +734,34 @@
             </cue_point_set>
         </userio>
     </control>
-    <control channel="3" event_type="Note On" control="27">
-        <userio event="click">
-            <cue_point deck_set="Default" deck_id="0" slot_id="3">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
-        </userio>
-        <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="0" slot_id="3">
-                <translation action_on="any">
-                    <alias name="on" value="127"/>
-                    <alias name="off" value="0"/>
-                </translation>
-            </cue_point_set>
-        </userio>
-    </control>
-    <control channel="3" event_type="Note On" control="26">
-        <userio event="click">
-            <cue_point deck_set="Default" deck_id="0" slot_id="2">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
-        </userio>
-        <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="0" slot_id="2">
-                <translation action_on="any">
-                    <alias name="on" value="127"/>
-                    <alias name="off" value="0"/>
-                </translation>
-            </cue_point_set>
-        </userio>
-    </control>
-    <control channel="3" event_type="Note On" control="25">
-        <userio event="click">
-            <cue_point deck_set="Default" deck_id="0" slot_id="1">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
-        </userio>
-        <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="0" slot_id="1">
-                <translation action_on="any">
-                    <alias name="on" value="127"/>
-                    <alias name="off" value="0"/>
-                </translation>
-            </cue_point_set>
-        </userio>
-    </control>
     <control channel="3" event_type="Note On" control="24">
         <userio event="click">
-            <cue_point deck_set="Default" deck_id="0" slot_id="0">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="4">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
         </userio>
         <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="0" slot_id="0">
+            <slot_reloop deck_set="Default" deck_id="1" slot_id="4">
                 <translation action_on="any">
                     <alias name="on" value="127"/>
                     <alias name="off" value="0"/>
                 </translation>
-            </cue_point_set>
+            </slot_reloop>
         </userio>
     </control>
     <control channel="3" event_type="Note On" control="38">
         <userio event="click">
-            <cue_point deck_set="Default" deck_id="1" slot_id="2">
-                <translation action_on="any" behaviour="explicit"/>
-            </cue_point>
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="6">
+                <translation action_on="press" behaviour="explicit"/>
+            </slot_reloop>
         </userio>
         <userio event="output">
-            <cue_point_set deck_set="Default" deck_id="1" slot_id="2">
+            <slot_reloop deck_set="Default" deck_id="2" slot_id="6">
                 <translation action_on="any">
                     <alias name="on" value="127"/>
                     <alias name="off" value="0"/>
                 </translation>
-            </cue_point_set>
+            </slot_reloop>
         </userio>
     </control>
 </midi>
